@@ -7,3 +7,17 @@ body {
   text-align :center;
 }
 
+.row
+{
+  margin-right:-15px;
+  margin-left:15px;
+}
+
+.blue
+{
+	background: blue;
+}
+.green
+{
+background: green;
+}
